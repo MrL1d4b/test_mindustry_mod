@@ -1,5 +1,5 @@
 {
-    "type" : "test-wall",
+    "type" : "Wall",
     "name" : "testium wall",
     "description" : "a strangely colored wall with basicaly no health",
 
