@@ -2,9 +2,9 @@
     "type" : "Wall",
     "name" : "testium wall",
     "description" : "a strangely colored wall with basicaly no health",
-
     "destructible" : true,
     "solid" : true,
+    "size" : 1,
     "teamPassable" : true,
     "breakable" : true,
     "scaledHealth" : 1,
