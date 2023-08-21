@@ -1,0 +1,10 @@
+{
+"name": "test-mod",
+"displayName": "Test Mod",
+"author": "Loki",
+"description": "this is a modding test",
+"version": "0.1",
+"minGameVersion": "145.0",
+"dependencies": [],
+"hidden": false
+}
