@@ -1,0 +1,16 @@
+{
+    "type" : "test-wall",
+    "name" : "testium wall",
+    "description" : "a strangely colored wall with basicaly no health",
+
+    "destructible" : true,
+    "solid" : true,
+    "teamPassable" : true,
+    "breakable" : true,
+    "scaledHealth" : 1,
+    "priority" : 5.0,
+    "unitCapModifier" : 1,
+    "requirement" : ["testium/6"],
+    "category" : "defense",
+    "buildCostMultiplier" : 0.5
+}
