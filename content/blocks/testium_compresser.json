@@ -1,0 +1,11 @@
+{
+    "type": "GenericCrafter",
+    "name": "testium compresser",
+    "description": "Compresses testium into heavy testium",
+    "outputItem": "heavy-testium/1",
+    "consumes": {
+        "items": [
+          "testium/3"
+        ]
+      }
+}

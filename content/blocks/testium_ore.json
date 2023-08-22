@@ -1,5 +1,7 @@
 {
     "type": "OreBlock",
+    "name": "testium ore",
+    "description": "still useless",
     "oreDefault": true,
     "oreScale": 22.45,
     "oreThreshold": 0.87,

@@ -1,6 +1,6 @@
 {
     "type": "Wall",
-    "name": "testium wall",
+    "name": "large testium wall",
     "description": "a strange, useless wall",
     "buildCostMultiplier": 0.1,
     "health": 4,
