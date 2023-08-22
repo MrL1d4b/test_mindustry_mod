@@ -1,6 +1,6 @@
 {
     "type": "Item",
-    "name" : "heavy-testium",
+    "name" : "heavy testium",
     "description" : "the (still useless) compressed form of testium",
     
     "explosiveness" : 1.0 ,
